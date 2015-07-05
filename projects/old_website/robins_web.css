@@ -1,0 +1,49 @@
+
+
+body {
+background-color: rgb(100,255,100);
+background-image: url("snowBall.jpg");
+padding: 0.5cm 4cm 4cm 4cm;
+}
+
+
+h1 { font-size: 36; }
+h2 { font-size: 20; }
+h3 { font-size: 14; }
+
+
+
+01:44 17/03/2005p.notice {font-size: 20; }
+p.general {font-size: 14; }
+p.home { font-size: 9; text-align: center; }
+p.padding { padding: 0cm 0cm 0cm 0cm; }
+p.paddown { padding: 0cm 0cm 5cm 0cm; }
+
+
+
+img.plain { padding: 0cm 0.0cm 0.25cm 0cm; }
+
+
+a { color:blue; }
+
+
+
+
+table.page { 
+background-color: rgb(255,255,255); 
+padding: 0.25cm 0.25cm 0.25cm 0.25cm;
+}
+
+table.home { background-color: rgb(255,255,255); border: 1 }
+
+
+
+td.padding { padding: 0cm, 0cm, 0.25cm, 4cm; }
+
+
+
+
+
+
+
+
